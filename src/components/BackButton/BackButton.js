@@ -10,7 +10,7 @@ export default function BackButton(props) {
     </TouchableHighlight>
   );
 }
-1231231231
+123123
 BackButton.propTypes = {
   onPress: PropTypes.func,
   source: PropTypes.number,
